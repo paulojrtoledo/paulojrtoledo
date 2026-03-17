@@ -42,4 +42,4 @@ Git · GitHub · Swagger · pgAdmin · Vercel
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pauloemilio--tech-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/pauloemilio-tech)
-[![Gmail](https://img.shields.io/badge/Gmail-paulojrtoledo@gmail.com-D14836?style=flat&logo=gmail)](mailto:pauloemilio.tech@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-pauloemilio.tech@gmail.com-D14836?style=flat&logo=gmail)](mailto:pauloemilio.tech@gmail.com)
