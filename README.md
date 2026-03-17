@@ -33,9 +33,9 @@ Git · GitHub · Swagger · pgAdmin · Vercel
 
 ## 🎓 Education
 
-- **Ensino Técnico em Desenvolvimento de Software** — SENAI-SC (2026–2028)
-- **Especialização Back-End Java** — ONE Oracle Next Education + Alura (2025–2026)
-- **Licenciatura em Música** — UDESC (2016–2022)
+- **Technical Degree in Software Developmen** — SENAI-SC (2026–2028)
+- **Back-End Java Specialization ** — ONE Oracle Next Education + Alura (2025–2026)
+- **Bachelor's Degree in Music ** — UDESC (2016–2022)
 
 ---
 
