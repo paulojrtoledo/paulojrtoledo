@@ -33,13 +33,13 @@ Git · GitHub · Swagger · pgAdmin · Vercel
 
 ## 🎓 Education
 
-- **Technical Degree in Software Developmen** — SENAI-SC (2026–2028)
-- **Back-End Java Specialization ** — ONE Oracle Next Education + Alura (2025–2026)
-- **Bachelor's Degree in Music ** — UDESC (2016–2022)
+- Technical Degree in Software Developmen — SENAI-SC (2026–2028)
+- Back-End Java Specialization — ONE Oracle Next Education + Alura (2025–2026)
+- Bachelor's Degree in Music — UDESC (2016–2022)
 
 ---
 
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pauloemilio--tech-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/pauloemilio-tech)
-[![Gmail](https://img.shields.io/badge/Gmail-paulojrtoledo@gmail.com-D14836?style=flat&logo=gmail)](mailto:paulojrtoledo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-paulojrtoledo@gmail.com-D14836?style=flat&logo=gmail)](mailto:pauloemilio.tech@gmail.com)
