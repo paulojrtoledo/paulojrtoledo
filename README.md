@@ -1,8 +1,8 @@
 # Paulo Emilio de Toledo Jr
 
-**Full-Stack Developer** | Java · Spring Boot · React · TypeScript
+**Backend Developer** | Java · Spring Boot · Rest APIs · PostgreSQL | React(support)
 
-Based in Florianópolis, SC — open to remote opportunities.
+Based in Florianópolis, SC 
 
 ---
 
@@ -33,8 +33,8 @@ Git · GitHub · Swagger · pgAdmin · Vercel
 
 ## 🎓 Education
 
-- Technical Degree in Software Developmen — SENAI-SC (2026–2028)
 - Back-End Java Specialization — ONE Oracle Next Education + Alura (2025–2026)
+- Technical Degree in Software Development — SENAI-SC (2026–2028)
 - Bachelor's Degree in Music — UDESC (2016–2022)
 
 ---
