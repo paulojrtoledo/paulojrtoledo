@@ -1,6 +1,6 @@
 # Paulo Emilio de Toledo Jr
 
-**Backend Developer** | Java · Spring Boot · Rest APIs · PostgreSQL | React(support)
+**Fullstack Developer** | Typescripit | React | NextJS | Java · Spring Boot · Rest APIs · PostgreSQL 
 
 Based in Florianópolis, SC 
 
@@ -22,10 +22,10 @@ Git · GitHub · Swagger · pgAdmin · Vercel
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
-|---|---|---|
+| [E-Commerce](https://github.com/paulojrtoledo/ecommerce-project) | Full-stack e-commerce with cart, favorites and dark mode — [live demo](https://ecommerce-project-abt7.vercel.app/) | React · TypeScript · Node.js · Firestore |
+| [Acorde](https://github.com/Acorde-Social/acorde-front)| Sociak Network for Musicians | Typescript - React - NextJS |
 | [Elo Bank](https://github.com/paulojrtoledo/elobank) | Digital banking platform with PIX/TED transfers and secure authentication | Java · Spring Boot · JWT · PostgreSQL |
 | [Forum API](https://github.com/paulojrtoledo/forum) | REST API with JWT auth, Spring Security, Flyway and Swagger | Java · Spring Boot · PostgreSQL |
-| [E-Commerce](https://github.com/paulojrtoledo/ecommerce-project) | Full-stack e-commerce with cart, favorites and dark mode — [live demo](https://ecommerce-project-abt7.vercel.app/) | React · TypeScript · Node.js · Firestore |
 | [ViaCEP Full-Stack](https://github.com/paulojrtoledo/fullstack-viacep) | Address lookup app integrating Java backend with React frontend | Java · React · TypeScript |
 | [LiterAlura](https://github.com/paulojrtoledo/literalura) | Book catalog consuming Gutendex API with PostgreSQL persistence | Java · Spring Boot · PostgreSQL |
 
@@ -33,8 +33,8 @@ Git · GitHub · Swagger · pgAdmin · Vercel
 
 ## 🎓 Education
 
-- Back-End Java Specialization — ONE Oracle Next Education + Alura (2025–2026)
 - Technical Degree in Software Development — SENAI-SC (2026–2028)
+- Back-End Java Specialization — ONE Oracle Next Education + Alura (2025–2026)
 - Bachelor's Degree in Music — UDESC (2016–2022)
 
 ---
