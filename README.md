@@ -21,43 +21,17 @@ Git · GitHub · Swagger · pgAdmin · Vercel
 
 ## 🚀 Featured Projects
 
-### 🏦 Elo Bank — Digital Banking Platform
-Backend system for a digital banking application.
+- **Elo Bank** — Digital banking backend (Java, Spring Boot, PostgreSQL, JWT)  
+  🔗 https://github.com/seu-usuario/elo-bank
 
-- Java • Spring Boot • PostgreSQL • JWT • Spring Security
-- Developed REST APIs for customers, accounts and transactions
-- Implemented authentication and authorization with JWT
-- Applied layered architecture and data validation
+- **Acorde** — Social platform frontend (Next.js, React, TypeScript)  
+  🔗 https://github.com/seu-usuario/acorde
 
----
+- **E-Commerce** — Full-stack app (React, Node.js, Firestore)  
+  🔗 https://github.com/seu-usuario/ecommerce
 
-### 🎵 Acorde — Social Platform
-Collaborative project focused on frontend development.
-
-- Next.js • React • TypeScript • Tailwind CSS
-- Built responsive interfaces and reusable components
-- Integrated frontend with REST APIs
-- Worked in a team using Git/GitHub
-
----
-
-### 🛒 E-Commerce
-Full-stack application with focus on user experience.
-
-- React • TypeScript • Node.js • Express • Firestore
-- Features: cart, favorites, dark mode
-- API integration and frontend deployment (Vercel)
-
----
-
-### 💬 Forum API
-REST API with authentication and access control.
-
-- Java • Spring Boot • PostgreSQL • JWT • Flyway
-- Implemented full CRUD with validation and pagination
-- Secure endpoints with Spring Security
-- API documentation with Swagger
-
+- **Forum API** — REST API with auth (Java, Spring Boot, JWT)  
+  🔗 https://github.com/seu-usuario/forum-api
 ---
 
 ## 🎓 Education
