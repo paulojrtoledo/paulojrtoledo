@@ -21,10 +21,10 @@ Git · GitHub · Swagger · pgAdmin · Vercel
 
 ## 🚀 Featured Projects
 
-- **Elo Bank** — Digital banking backend (Java, Spring Boot, PostgreSQL, JWT)  
+- **Elo Bank** — Digital banking (Java, Spring Boot, PostgreSQL, JWT)  
   🔗 https://github.com/seu-usuario/elo-bank
 
-- **Acorde** — Social platform frontend (Next.js, React, TypeScript)  
+- **Acorde** — Social platform (Next.js, React, TypeScript)  
   🔗 https://github.com/seu-usuario/acorde
 
 - **E-Commerce** — Full-stack app (React, Node.js, Firestore)  
