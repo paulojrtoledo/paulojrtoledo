@@ -21,13 +21,42 @@ Git · GitHub · Swagger · pgAdmin · Vercel
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-| [E-Commerce](https://github.com/paulojrtoledo/ecommerce-project) | Full-stack e-commerce with cart, favorites and dark mode — [live demo](https://ecommerce-project-abt7.vercel.app/) | React · TypeScript · Node.js · Firestore |
-| [Acorde](https://github.com/Acorde-Social/acorde-front)| Sociak Network for Musicians | Typescript - React - NextJS |
-| [Elo Bank](https://github.com/paulojrtoledo/elobank) | Digital banking platform with PIX/TED transfers and secure authentication | Java · Spring Boot · JWT · PostgreSQL |
-| [Forum API](https://github.com/paulojrtoledo/forum) | REST API with JWT auth, Spring Security, Flyway and Swagger | Java · Spring Boot · PostgreSQL |
-| [ViaCEP Full-Stack](https://github.com/paulojrtoledo/fullstack-viacep) | Address lookup app integrating Java backend with React frontend | Java · React · TypeScript |
-| [LiterAlura](https://github.com/paulojrtoledo/literalura) | Book catalog consuming Gutendex API with PostgreSQL persistence | Java · Spring Boot · PostgreSQL |
+### 🏦 Elo Bank — Digital Banking Platform
+Backend system for a digital banking application.
+
+- Java • Spring Boot • PostgreSQL • JWT • Spring Security
+- Developed REST APIs for customers, accounts and transactions
+- Implemented authentication and authorization with JWT
+- Applied layered architecture and data validation
+
+---
+
+### 🎵 Acorde — Social Platform
+Collaborative project focused on frontend development.
+
+- Next.js • React • TypeScript • Tailwind CSS
+- Built responsive interfaces and reusable components
+- Integrated frontend with REST APIs
+- Worked in a team using Git/GitHub
+
+---
+
+### 🛒 E-Commerce
+Full-stack application with focus on user experience.
+
+- React • TypeScript • Node.js • Express • Firestore
+- Features: cart, favorites, dark mode
+- API integration and frontend deployment (Vercel)
+
+---
+
+### 💬 Forum API
+REST API with authentication and access control.
+
+- Java • Spring Boot • PostgreSQL • JWT • Flyway
+- Implemented full CRUD with validation and pagination
+- Secure endpoints with Spring Security
+- API documentation with Swagger
 
 ---
 
