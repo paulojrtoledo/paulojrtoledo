@@ -22,16 +22,16 @@ Git · GitHub · Swagger · pgAdmin · Vercel
 ## 🚀 Featured Projects
 
 - **Elo Bank** — Digital banking (Java, Spring Boot, PostgreSQL, JWT)  
-  🔗 https://github.com/seu-usuario/elo-bank
+  🔗 https://github.com/paulojrtoledo/spendly-backend
 
 - **Acorde** — Social platform (Next.js, React, TypeScript)  
-  🔗 https://github.com/seu-usuario/acorde
+  🔗 https://github.com/Acorde-Social/acorde-front
 
 - **E-Commerce** — Full-stack app (React, Node.js, Firestore)  
-  🔗 https://github.com/seu-usuario/ecommerce
+  🔗 https://github.com/paulojrtoledo/ecommerce-project
 
 - **Forum API** — REST API with auth (Java, Spring Boot, JWT)  
-  🔗 https://github.com/seu-usuario/forum-api
+  🔗 https://github.com/paulojrtoledo/forum-api
 ---
 
 ## 🎓 Education
