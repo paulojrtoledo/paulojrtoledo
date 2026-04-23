@@ -21,18 +21,12 @@ Git · GitHub · Swagger · pgAdmin · Vercel
 
 ## 🚀 Featured Projects
 
-- **Elo Bank** — Digital banking (Java, Spring Boot, PostgreSQL, JWT)  
-  🔗 https://github.com/paulojrtoledo/spendly-backend
-
-- **Acorde** — Social platform (Next.js, React, TypeScript)  
-  🔗 https://github.com/Acorde-Social/acorde-front
-
-- **E-Commerce** — Full-stack app (React, Node.js, Firestore)  
-  🔗 https://github.com/paulojrtoledo/ecommerce-project
-
-- **Forum API** — REST API with auth (Java, Spring Boot, JWT)  
-  🔗 https://github.com/paulojrtoledo/forum-api
----
+| Project      | Description                                           | Stack                                      | Link |
+|-------------|--------------------------------------------------------|---------------------------------------------|------|
+| **Spendly** | Personal finance backend (wallets, transactions, auth) | Java, Spring Boot, PostgreSQL, JWT          | [Repo](https://github.com/paulojrtoledo/spendly-backend) |
+| **Acorde**  | Social platform frontend                               | Next.js, React, TypeScript                  | [Repo](https://github.com/Acorde-Social/acorde-front) |
+| **E-Commerce** | Full-stack application                              | React, Node.js, Firestore                   | [Repo](https://github.com/paulojrtoledo/ecommerce-project) |
+| **Forum API** | REST API with authentication                         | Java, Spring Boot, JWT                      | [Repo](https://github.com/paulojrtoledo/forum-api) |
 
 ## 🎓 Education
 
