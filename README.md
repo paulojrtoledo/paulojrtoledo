@@ -1,6 +1,6 @@
-# Paulo Emilio de Toledo Jr
+# Paulo Emilio 
 
-**Fullstack Developer** | Typescripit | React | NextJS | Java · Spring Boot · Rest APIs · PostgreSQL 
+**Backend Developer** | Backend Developer | Java · Spring Boot · REST APIs · PostgreSQL | React 
 
 Based in Florianópolis, SC 
 
@@ -21,12 +21,12 @@ Git · GitHub · Swagger · pgAdmin · Vercel
 
 ## 🚀 Featured Projects
 
-| Project      | Description                                           | Stack                                      | Link |
-|-------------|--------------------------------------------------------|---------------------------------------------|------|
-| **Spendly** | Personal finance backend (wallets, transactions, auth) | Java, Spring Boot, PostgreSQL, JWT          | [Repo](https://github.com/paulojrtoledo/spendly-backend) |
-| **Acorde**  | Social platform frontend                               | Next.js, React, TypeScript                  | [Repo](https://github.com/Acorde-Social/acorde-front) |
-| **E-Commerce** | Full-stack application                              | React, Node.js, Firestore                   | [Repo](https://github.com/paulojrtoledo/ecommerce-project) |
-| **Forum API** | REST API with authentication                         | Java, Spring Boot, JWT                      | [Repo](https://github.com/paulojrtoledo/forum-api) |
+| Project         | Description                                            | Stack                                       | Link                                                       |
+|-------------    |--------------------------------------------------------|---------------------------------------------|------------------------------------------------------------|
+| **Spendly**     | Personal finance backend (wallets, transactions, auth) | Java, Spring Boot, PostgreSQL, JWT          | [Repo](https://github.com/paulojrtoledo/spendly-backend)   |
+| **Nature Tech** | Full-stack application                                 | Java, Spring Boot, React , Typescript       | [Repo](https://github.com/paulojrtoledo/ecommerce-project) |
+| **Acorde**      | Social platform                                        | Next.js, React, TypeScript                  | [Repo](https://github.com/Acorde-Social/acorde-front)      |
+| **Forum API**   | REST API with authentication                           | Java, Spring Boot, JWT                      | [Repo](https://github.com/paulojrtoledo/forum-api)         |
 
 ## 🎓 Education
 
